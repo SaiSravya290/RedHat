@@ -1,0 +1,39 @@
+[
+	{
+
+		"negative": "1210",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "17/04/2020",
+		"positive": "12",
+		"totaltested": "1403",
+		"unconfirmed": "181",
+		"testspermillion": "3534"
+
+
+	},
+	{
+		
+		"negative": "399776",
+		"state": "Andhra Pradesh",
+		"unconfirmed": "",
+		"updatedon": "03/06/2020",
+		"positive": "3279",
+		"totaltested": "403747",
+		"testspermillion": "7732"
+		
+	
+	},
+	{
+		"negative": "399776",
+		"state": "Andhra Pradesh",
+		"unconfirmed": "",
+		"updatedon": "03/06/2020",
+		"positive": "3279",
+		"totaltested": "403747",
+		"testspermillion": "7732"
+	}
+
+
+
+
+]
