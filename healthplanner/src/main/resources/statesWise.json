@@ -2251,7 +2251,3858 @@
 		"totaltested": "552007",
 		"unconfirmed": "",
 		"testspermillion": "5696"
-	}	
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "13/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
 
 
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "13/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "13/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "13/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "13/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "13/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "13/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "13/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "13/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "13/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "13/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "13/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "13/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "13/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "13/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "13/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "13/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "13/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "13/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "13/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "13/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "13/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "13/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "13/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "13/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "13/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "13/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "13/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "13/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "13/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "13/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "13/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "13/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "13/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "13/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "14/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "14/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "14/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "14/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "14/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "14/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "14/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "14/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "14/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "14/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "14/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "14/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "14/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "14/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "14/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "14/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "14/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "14/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "14/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "14/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "14/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "14/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "14/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "14/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "14/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "14/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "14/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "14/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "14/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "14/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "14/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "14/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "14/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "14/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "14/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "15/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "15/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "15/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "15/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "15/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "15/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "15/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "15/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "15/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "15/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "15/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "15/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "15/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "15/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "15/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "15/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "15/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "15/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "15/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "15/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "15/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "15/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "15/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "15/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "15/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "15/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "15/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "15/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "15/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "15/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "15/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "15/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "15/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "15/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "15/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "16/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "16/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "16/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "16/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "16/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "16/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "16/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "16/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "16/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "16/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "16/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "16/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "16/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "16/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "16/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "16/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "16/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "16/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "16/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "16/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "16/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "16/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "16/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "16/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "16/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "16/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "16/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "16/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "16/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "16/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "16/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "16/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "16/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "16/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "16/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "17/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "17/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "17/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "17/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "17/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "17/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "17/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "17/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "17/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "17/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "17/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "17/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "17/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "17/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "17/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "17/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "17/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "17/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "17/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "17/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "17/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "17/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "17/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "17/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "17/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "17/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "17/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "17/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "17/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "17/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "17/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "17/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "17/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "17/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "17/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "18/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "18/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "18/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "18/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "18/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "18/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "18/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "18/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "18/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "18/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "18/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "18/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "18/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "18/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "18/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "18/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "18/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "18/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "18/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "18/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "18/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "18/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "18/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "18/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "18/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "18/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "18/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "18/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "18/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "18/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "18/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "18/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "18/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "18/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "18/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "19/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "19/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "19/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "19/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "19/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "19/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "19/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "19/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "19/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "19/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "19/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "19/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "19/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "19/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "19/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "19/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "19/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "19/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "19/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "19/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "19/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "19/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "19/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "19/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "19/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "19/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "19/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "19/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "19/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "19/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "19/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "19/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "19/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "19/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "19/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "20/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "903177",
+		"state": "Andhra Pradesh",
+		"updatedon": "20/07/2020",
+		"positive": "15252",
+		"totaltested": "918429",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "22443",
+		"state": "Arunachal Pradesh",
+		"updatedon": "20/07/2020",
+		"positive": "195",
+		"totaltested": "24856",
+		"unconfirmed": "1669",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "20/07/2020",
+		"positive": "8547",
+		"totaltested": "419878",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "20/07/2020",
+		"positive": "10075",
+		"totaltested": "228689",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "20/07/2020",
+		"positive": "446",
+		"totaltested": "7792",
+		"unconfirmed": "27",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "20/07/2020",
+		"positive": "2940",
+		"totaltested": "163662",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "20/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "20/07/2020",
+		"positive": "89802",
+		"totaltested": "551708",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "20/07/2020",
+		"positive": "1387",
+		"totaltested": "67822",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "20/07/2020",
+		"positive": "33318",
+		"totaltested": "380640",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "249453",
+		"state": "Haryana",
+		"updatedon": "20/07/2020",
+		"positive": "14941",
+		"totaltested": "269726",
+		"unconfirmed": "5332",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "20/07/2020",
+		"positive": "979",
+		"totaltested": "81516",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "363791",
+		"state": "Jammu and Kashmir",
+		"updatedon": "20/07/2020",
+		"positive": "7695",
+		"totaltested": "371486",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "143167",
+		"state": "Jharkhand",
+		"updatedon": "20/07/2020",
+		"positive": "2525",
+		"totaltested": "145692",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "604822",
+		"state": "Karnataka",
+		"updatedon": "20/07/2020",
+		"positive": "16514",
+		"totaltested": "637417",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "20/07/2020",
+		"positive": "4593",
+		"totaltested": "239017",
+		"unconfirmed": "4042",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "20/07/2020",
+		"positive": "990",
+		"totaltested": "14076",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "355136",
+		"state": "Madhya Pradesh",
+		"updatedon": "20/07/2020",
+		"positive": "13861",
+		"totaltested": "372811",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "20/07/2020",
+		"positive": "183686",
+		"totaltested": "995343",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "20/07/2020",
+		"positive": "55",
+		"totaltested": "19494",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "20/07/2020",      
+		"positive": "1279",
+		"totaltested": "53030",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "20/07/2020",
+		"positive": "160",
+		"totaltested": "13886",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "20/07/2020",
+		"positive": "501",
+		"totaltested": "17177",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "20/07/2020",
+		"positive": "7316",
+		"totaltested": "270678",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "16984",
+		"state": "Puducherry",
+		"updatedon": "20/07/2020",
+		"positive": "739",
+		"totaltested": "18092",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "20/07/2020",
+		"positive": "5668",
+		"totaltested": "308998",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "20/07/2020",
+		"positive": "18312",
+		"totaltested": "839370",
+		"unconfirmed": "2573",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "20/07/2020",
+		"positive": "88",
+		"totaltested": "10723",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "20/07/2020",
+		"positive": "94049",
+		"totaltested": "1202204",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "20/07/2020",
+		"positive": "17357",
+		"totaltested": "92797",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "20/07/2020",
+		"positive": "1401",
+		"totaltested": "65549",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "20/07/2020",
+		"positive": "24056",
+		"totaltested": "758915",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "20/07/2020",
+		"positive": "2947",
+		"totaltested": "70032",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "20/07/2020",
+		"positive": "19170",
+		"totaltested": "497596",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "21/07/2020",
+		"positive": "212",
+		"totaltested": "20642",
+		"unconfirmed": "237",
+		"testspermillion": "51995"
+
+
+	},
+	{
+		
+		"negative": "1327606",
+		"state": "Andhra Pradesh",
+		"updatedon": "21/07/2020",
+		"positive": "58668",
+		"totaltested": "1386274",
+		"unconfirmed": "",
+		"testspermillion": "26546"
+		
+	
+	},
+	{
+		"negative": "39116",
+		"state": "Arunachal Pradesh",
+		"updatedon": "21/07/2020",
+		"positive": "858",
+		"totaltested": "41772",
+		"unconfirmed": "1494",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "21/07/2020",
+		"positive": "25092",
+		"totaltested": "689343",
+		"unconfirmed": "",
+		"testspermillion": "20102"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "21/07/2020",
+		"positive": "28564",
+		"totaltested": "398929",
+		"unconfirmed": "",
+		"testspermillion": "3338"
+	},
+	{
+		"negative": "10468",
+		"state": "Chandigarh",
+		"updatedon": "21/07/2020",
+		"positive": "751",
+		"totaltested": "11271",
+		"unconfirmed": "50",
+		"testspermillion": "9560"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "21/07/2020",
+		"positive": "5731",
+		"totaltested": "254185",
+		"unconfirmed": "",
+		"testspermillion": "8849"
+	},
+	{
+		"negative": "38022",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "21/07/2020",
+		"positive": "733",
+		"totaltested": "39199",
+		"unconfirmed": "425",
+		"testspermillion": "40875"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "21/07/2020",
+		"positive": "125096",
+		"totaltested": "851311",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "21/07/2020",
+		"positive": "4027",
+		"totaltested": "111296",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "512217",
+		"state": "Gujarat",
+		"updatedon": "21/07/2020",
+		"positive": "50465",
+		"totaltested": "562682",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "434300",
+		"state": "Haryana",
+		"updatedon": "21/07/2020",
+		"positive": "27462",
+		"totaltested": "467740",
+		"unconfirmed": "5978",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "116963",
+		"state": "Himachal Pradesh",
+		"updatedon": "21/07/2020",
+		"positive": "1664",
+		"totaltested": "119220",
+		"unconfirmed": "150",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "513688",
+		"state": "Jammu and Kashmir",
+		"updatedon": "21/07/2020",
+		"positive": "15258",
+		"totaltested": "528946",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "224340",
+		"state": "Jharkhand",
+		"updatedon": "21/07/2020",
+		"positive": "6195",
+		"totaltested": "230535",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "963725",
+		"state": "Karnataka",
+		"updatedon": "21/07/2020",
+		"positive": "71069",
+		"totaltested": "1051976",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "21/07/2020",
+		"positive": "13995",
+		"totaltested": "567278",
+		"unconfirmed": "7410",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "12095",
+		"state": "Ladakh",
+		"updatedon": "21/07/2020",
+		"positive": "1198",
+		"totaltested": "16639",
+		"unconfirmed": "232",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "602911",
+		"state": "Madhya Pradesh",
+		"updatedon": "21/07/2020",
+		"positive": "24095",
+		"totaltested": "631067",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "811657",
+		"state": "Maharashtra",
+		"updatedon": "21/07/2020",
+		"positive": "332831",
+		"totaltested": "1643981",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "21/07/2020",
+		"positive": "490",
+		"totaltested": "29274",
+		"unconfirmed": "280",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "21/07/2020",      
+		"positive": "2015",
+		"totaltested": "73053",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "21/07/2020",
+		"positive": "297",
+		"totaltested": "18297",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "21/07/2020",
+		"positive": "1030",
+		"totaltested": "30574",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "21/07/2020",
+		"positive": "18757",
+		"totaltested": "401644",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "29675",
+		"state": "Puducherry",
+		"updatedon": "21/07/2020",
+		"positive": "2183",
+		"totaltested": "32468",
+		"unconfirmed": "375",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "21/07/2020",
+		"positive": "10889",
+		"totaltested": "478421",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "1232900",
+		"state": "Rajasthan",
+		"updatedon": "21/07/2020",
+		"positive": "18312",
+		"totaltested": "1270376",
+		"unconfirmed": "6103",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "15418",
+		"state": "Sikkim",
+		"updatedon": "21/07/2020",
+		"positive": "330",
+		"totaltested": "17564",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "21/07/2020",
+		"positive": "180643",
+		"totaltested": "2035645",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "",
+		"state": "Telangana",
+		"updatedon": "21/07/2020",
+		"positive": "47705",
+		"totaltested": "293077",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "",
+		"state": "Tripura",
+		"updatedon": "21/07/2020",
+		"positive": "3345",
+		"totaltested": "119046",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "21/07/2020",
+		"positive": "24056",
+		"totaltested": "1554116",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "21/07/2020",
+		"positive": "4849",
+		"totaltested": "127098",
+		"unconfirmed": "11077",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "21/07/2020",
+		"positive": "47030",
+		"totaltested": "729429",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "22/07/2020",
+		"positive": "221",
+		"totaltested": "21043",
+		"unconfirmed": "336",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "1371114",
+		"state": "Andhra Pradesh",
+		"updatedon": "22/07/2020",
+		"positive": "64713",
+		"totaltested": "1435827",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "42369",
+		"state": "Arunachal Pradesh",
+		"updatedon": "22/07/2020",
+		"positive": "949",
+		"totaltested": "44986",
+		"unconfirmed": "1362",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "22/07/2020",
+		"positive": "27744",
+		"totaltested": "703374",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "22/07/2020",
+		"positive": "30066",
+		"totaltested": "409088",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "10719",
+		"state": "Chandigarh",
+		"updatedon": "22/07/2020",
+		"positive": "780",
+		"totaltested": "11547",
+		"unconfirmed": "46",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "22/07/2020",
+		"positive": "5968",
+		"totaltested": "260227",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "22/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "22/07/2020",
+		"positive": "126323",
+		"totaltested": "871371",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "22/07/2020",
+		"positive": "4176",
+		"totaltested": "114309",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "22/07/2020",
+		"positive": "51485",
+		"totaltested": "576706",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "443585",
+		"state": "Haryana",
+		"updatedon": "22/07/2020",
+		"positive": "28186",
+		"totaltested": "477412",
+		"unconfirmed": "5641",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "119350",
+		"state": "Himachal Pradesh",
+		"updatedon": "22/07/2020",
+		"positive": "1725",
+		"totaltested": "121688",
+		"unconfirmed": "613",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "522180",
+		"state": "Jammu and Kashmir",
+		"updatedon": "22/07/2020",
+		"positive": "15711",
+		"totaltested": "537891",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "229756",
+		"state": "Jharkhand",
+		"updatedon": "22/07/2020",
+		"positive": "6682",
+		"totaltested": "236438",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "1002045",
+		"state": "Karnataka",
+		"updatedon": "22/07/2020",
+		"positive": "75833",
+		"totaltested": "1079749",
+		"unconfirmed": "",
+		"testspermillion": "9687"
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "22/07/2020",
+		"positive": "15033",
+		"totaltested": "588930",
+		"unconfirmed": "8320",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "13846",
+		"state": "Ladakh",
+		"updatedon": "22/07/2020",
+		"positive": "1206",
+		"totaltested": "16850",
+		"unconfirmed": "767",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "616100",
+		"state": "Madhya Pradesh",
+		"updatedon": "22/07/2020",
+		"positive": "24842",
+		"totaltested": "645003",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "1348610",
+		"state": "Maharashtra",
+		"updatedon": "22/07/2020",
+		"positive": "342936",
+		"totaltested": "1691546",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "22/07/2020",
+		"positive": "514",
+		"totaltested": "30009",
+		"unconfirmed": "256",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "22/07/2020",      
+		"positive": "2060",
+		"totaltested": "73866",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "22/07/2020",
+		"positive": "317",
+		"totaltested": "18603",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "22/07/2020",
+		"positive": "1084",
+		"totaltested": "31503",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "22/07/2020",
+		"positive": "19835",
+		"totaltested": "410921",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "30260",
+		"state": "Puducherry",
+		"updatedon": "22/07/2020",
+		"positive": "2300",
+		"totaltested": "33096",
+		"unconfirmed": "280",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "22/07/2020",
+		"positive": "11301",
+		"totaltested": "489836",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "1259602",
+		"state": "Rajasthan",
+		"updatedon": "22/07/2020",
+		"positive": "32334",
+		"totaltested": "1298218",
+		"unconfirmed": "6282",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "",
+		"state": "Sikkim",
+		"updatedon": "22/07/2020",
+		"positive": "438",
+		"totaltested": "19484",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "22/07/2020",
+		"positive": "186492",
+		"totaltested": "2095757",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "22/07/2020",
+		"positive": "49259",
+		"totaltested": "308959",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "119801",
+		"state": "Tripura",
+		"updatedon": "22/07/2020",
+		"positive": "3471",
+		"totaltested": "123269",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "22/07/2020",
+		"positive": "55588",
+		"totaltested": "1600000",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "112210",
+		"state": "Uttarakhand",
+		"updatedon": "22/07/2020",
+		"positive": "5300",
+		"totaltested": "129783",
+		"unconfirmed": "9579",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "22/07/2020",
+		"positive": "49321",
+		"totaltested": "743469",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "23/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "1421168",
+		"state": "Andhra Pradesh",
+		"updatedon": "23/07/2020",
+		"positive": "72711",
+		"totaltested": "1493879",
+		"unconfirmed": "",
+		"testspermillion": ""
+		
+	
+	},
+	{
+		"negative": "46332",
+		"state": "Arunachal Pradesh",
+		"updatedon": "23/07/2020",
+		"positive": "991",
+		"totaltested": "48880",
+		"unconfirmed": "1250",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "23/07/2020",
+		"positive": "28791",
+		"totaltested": "723287",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "23/07/2020",
+		"positive": "31691",
+		"totaltested": "419208",
+		"unconfirmed": "",
+		"testspermillion": "3507"
+	},
+	{
+		"negative": "10930",
+		"state": "Chandigarh",
+		"updatedon": "23/07/2020",
+		"positive": "800",
+		"totaltested": "11780",
+		"unconfirmed": "48",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "23/07/2020",
+		"positive": "6254",
+		"totaltested": "268285",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "23/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "23/07/2020",
+		"positive": "127364",
+		"totaltested": "889597",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "23/07/2020",
+		"positive": "4350",
+		"totaltested": "117321",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "23/07/2020",
+		"positive": "52563",
+		"totaltested": "591561",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "455864",
+		"state": "Haryana",
+		"updatedon": "23/07/2020",
+		"positive": "28975",
+		"totaltested": "490414",
+		"unconfirmed": "5575",
+		"testspermillion": ""
+	},
+	{
+		"negative": "80387",
+		"state": "Himachal Pradesh",
+		"updatedon": "23/07/2020",
+		"positive": "1834",
+		"totaltested": "124683",
+		"unconfirmed": "1306",
+		"testspermillion": ""
+	},
+	{
+		"negative": "532448",
+		"state": "Jammu and Kashmir",
+		"updatedon": "23/07/2020",
+		"positive": "16429",
+		"totaltested": "548877",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "236110",
+		"state": "Jharkhand",
+		"updatedon": "23/07/2020",
+		"positive": "7166",
+		"totaltested": "243276",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "1058705",
+		"state": "Karnataka",
+		"updatedon": "23/07/2020",
+		"positive": "80863",
+		"totaltested": "1109568",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "23/07/2020",
+		"positive": "4593",
+		"totaltested": "612266",
+		"unconfirmed": "9159",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Ladakh",
+		"updatedon": "23/07/2020",
+		"positive": "1210",
+		"totaltested": "16972",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "629334",
+		"state": "Madhya Pradesh",
+		"updatedon": "23/07/2020",
+		"positive": "25474",
+		"totaltested": "658869",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "1389232",
+		"state": "Maharashtra",
+		"updatedon": "23/07/2020",
+		"positive": "352760",
+		"totaltested": "1741992",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "28967",
+		"state": "Meghalaya",
+		"updatedon": "23/07/2020",
+		"positive": "534",
+		"totaltested": "30796",
+		"unconfirmed": "1070",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "23/07/2020",      
+		"positive": "2115",
+		"totaltested": "74614",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "23/07/2020",
+		"positive": "326",
+		"totaltested": "19014",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "23/07/2020",
+		"positive": "1174",
+		"totaltested": "32169",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "23/07/2020",
+		"positive": "21099",
+		"totaltested": "421931",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "30648",
+		"state": "Puducherry",
+		"updatedon": "23/07/2020",
+		"positive": "2420",
+		"totaltested": "33658",
+		"unconfirmed": "307",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "23/07/2020",
+		"positive": "11739",
+		"totaltested": "500562",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "818485",
+		"state": "Rajasthan",
+		"updatedon": "23/07/2020",
+		"positive": "33220",
+		"totaltested": "1325580",
+		"unconfirmed": "6482",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "18267",
+		"state": "Sikkim",
+		"updatedon": "23/07/2020",
+		"positive": "460",
+		"totaltested": "20050",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "23/07/2020",
+		"positive": "192964",
+		"totaltested": "2157869",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "75440",
+		"state": "Telangana",
+		"updatedon": "23/07/2020",
+		"positive": "50826",
+		"totaltested": "322326",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "64148",
+		"state": "Tripura",
+		"updatedon": "23/07/2020",
+		"positive": "3677",
+		"totaltested": "127742",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "23/07/2020",
+		"positive": "58104",
+		"totaltested": "1654651",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "59350",
+		"state": "Uttarakhand",
+		"updatedon": "23/07/2020",
+		"positive": "5445",
+		"totaltested": "132840",
+		"unconfirmed": "9003",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "23/07/2020",
+		"positive": "51757",
+		"totaltested": "758027",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	},
+	{
+
+		"negative": "",
+		"state": "Andaman and Nicobar Islands",
+		"updatedon": "24/07/2020",
+		"positive": "100",
+		"totaltested": "15982",
+		"unconfirmed": "243",
+		"testspermillion": "40257"
+
+
+	},
+	{
+		
+		"negative": "1461135",
+		"state": "Andhra Pradesh",
+		"updatedon": "24/07/2020",
+		"positive": "80858",
+		"totaltested": "1541993",
+		"unconfirmed": "",
+		"testspermillion": "17587"
+		
+	
+	},
+	{
+		"negative": "51033",
+		"state": "Arunachal Pradesh",
+		"updatedon": "24/07/2020",
+		"positive": "1056",
+		"totaltested": "53335",
+		"unconfirmed": "935",
+		"testspermillion": "16527"
+	},
+	{
+		"negative": "",
+		"state": "Assam",
+		"updatedon": "24/07/2020",
+		"positive": "29921",
+		"totaltested": "739465",
+		"unconfirmed": "",
+		"testspermillion": "12244"
+	},
+	{
+		"negative": "",
+		"state": "Bihar",
+		"updatedon": "24/07/2020",
+		"positive": "33511",
+		"totaltested": "429664",
+		"unconfirmed": "",
+		"testspermillion": "1913"
+	},
+	{
+		"negative": "7317",
+		"state": "Chandigarh",
+		"updatedon": "24/07/2020",
+		"positive": "823",
+		"totaltested": "12030",
+		"unconfirmed": "46",
+		"testspermillion": "6609"
+	},
+	{
+		"negative": "",
+		"state": "Chhattisgarh",
+		"updatedon": "24/07/2020",
+		"positive": "6731",
+		"totaltested": "274660",
+		"unconfirmed": "",
+		"testspermillion": "5698"
+	},
+	{
+		"negative": "31783",
+		"state": "Dadra and Nagar Haveli and Daman and Diu",
+		"updatedon": "23/07/2020",
+		"positive": "229",
+		"totaltested": "32435",
+		"unconfirmed": "",
+		"testspermillion": "33822"
+	},
+	{
+		"negative": "",
+		"state": "Delhi",
+		"updatedon": "24/07/2020",
+		"positive": "128389",
+		"totaltested": "908735",
+		"unconfirmed": "",
+		"testspermillion": "27844"
+	},
+	{
+		"negative": "",
+		"state": "Goa",
+		"updatedon": "24/07/2020",
+		"positive": "4540",
+		"totaltested": "119455",
+		"unconfirmed": "",
+		"testspermillion": "44040"
+	},
+	{
+		"negative": "",
+		"state": "Gujarat",
+		"updatedon": "24/07/2020",
+		"positive": "53631",
+		"totaltested": "606136",
+		"unconfirmed": "",
+		"testspermillion": "5603"
+	},
+	{
+		"negative": "469631",
+		"state": "Haryana",
+		"updatedon": "24/07/2020",
+		"positive": "29755",
+		"totaltested": "505220",
+		"unconfirmed": "5834",
+		"testspermillion": "9407"
+	},
+	{
+		"negative": "124568",
+		"state": "Himachal Pradesh",
+		"updatedon": "24/07/2020",
+		"positive": "1954",
+		"totaltested": "127555",
+		"unconfirmed": "1033",
+		"testspermillion": "11167"
+	},
+	{
+		"negative": "542617",
+		"state": "Jammu and Kashmir",
+		"updatedon": "24/07/2020",
+		"positive": "16782",
+		"totaltested": "559399",
+		"unconfirmed": "",
+		"testspermillion": "28136"
+	},
+	{
+		"negative": "241364",
+		"state": "Jharkhand",
+		"updatedon": "24/07/2020",
+		"positive": "7564",
+		"totaltested": "248928",
+		"unconfirmed": "",
+		"testspermillion": "3895"
+	},
+	{
+		"negative": "1058705",
+		"state": "Karnataka",
+		"updatedon": "23/07/2020",
+		"positive": "80863",
+		"totaltested": "1109568",
+		"unconfirmed": "",
+		"testspermillion": ""
+	},
+	{
+		"negative": "",
+		"state": "Kerala",
+		"updatedon": "24/07/2020",
+		"positive": "16996",
+		"totaltested": "635272",
+		"unconfirmed": "9185",
+		"testspermillion": "6805"
+	},
+	{
+		"negative": "14245",
+		"state": "Ladakh",
+		"updatedon": "24/07/2020",
+		"positive": "1246",
+		"totaltested": "17395",
+		"unconfirmed": "787",
+		"testspermillion": "48041"
+	},
+	{
+		"negative": "639884",
+		"state": "Madhya Pradesh",
+		"updatedon": "24/07/2020",
+		"positive": "26210",
+		"totaltested": "670155",
+		"unconfirmed": "232",
+		"testspermillion": "4534"
+	},
+	{
+		"negative": "1428194",
+		"state": "Maharashtra",
+		"updatedon": "24/07/2020",
+		"positive": "362416",
+		"totaltested": "1790610",
+		"unconfirmed": "",
+		"testspermillion": "8148"
+	},
+	{
+		"negative": "",
+		"state": "Meghalaya",
+		"updatedon": "24/07/2020",
+		"positive": "582",
+		"totaltested": "32401",
+		"unconfirmed": "",
+		"testspermillion": "6047"
+	},
+	{
+		"negative": "",
+		"state": "Manipur",
+		"updatedon": "24/07/2020",      
+		"positive": "2146",
+		"totaltested": "75932",
+		"unconfirmed": "",
+		"testspermillion": "17090"
+	},
+	{
+		"negative": "",
+		"state": "Mizoram",
+		"updatedon": "24/07/2020",
+		"positive": "332",
+		"totaltested": "19238",
+		"unconfirmed": "",
+		"testspermillion": "11649"
+	},
+	{
+		"negative": "",
+		"state": "Nagaland",
+		"updatedon": "24/07/2020",
+		"positive": "1238",
+		"totaltested": "32909",
+		"unconfirmed": "",
+		"testspermillion": "7989"
+	},
+	{
+		"negative": "",
+		"state": "Odisha",
+		"updatedon": "24/07/2020",
+		"positive": "22693",
+		"totaltested": "433578",
+		"unconfirmed": "",
+		"testspermillion": "6198"
+	},
+	{
+		"negative": "31142",
+		"state": "Puducherry",
+		"updatedon": "24/07/2020",
+		"positive": "2515",
+		"totaltested": "34305",
+		"unconfirmed": "353",
+		"testspermillion": "12029"
+	},
+	{
+		"negative": "",
+		"state": "Punjab",
+		"updatedon": "24/07/2020",
+		"positive": "12216",
+		"totaltested": "509267",
+		"unconfirmed": "",
+		"testspermillion": "10349"
+	},
+	{
+		"negative": "1309112",
+		"state": "Rajasthan",
+		"updatedon": "24/07/2020",
+		"positive": "18312",
+		"totaltested": "1349544",
+		"unconfirmed": "6254",
+		"testspermillion": "10864"
+	},
+	{
+		"negative": "18748",
+		"state": "Sikkim",
+		"updatedon": "24/07/2020",
+		"positive": "477",
+		"totaltested": "20785",
+		"unconfirmed": "",
+		"testspermillion": "16149"
+	},
+	{
+		"negative": "",
+		"state": "Tamil Nadu",
+		"updatedon": "24/07/2020",
+		"positive": "199749",
+		"totaltested": "2223019",
+		"unconfirmed": "",
+		"testspermillion": "15882"
+	},
+	{
+		"negative": "",
+		"state": "Telangana",
+		"updatedon": "24/07/2020",
+		"positive": "52466",
+		"totaltested": "337771",
+		"unconfirmed": "",
+		"testspermillion": "2493"
+	},
+	{
+		"negative": "127708",
+		"state": "Tripura",
+		"updatedon": "24/07/2020",
+		"positive": "3777",
+		"totaltested": "131485",
+		"unconfirmed": "",
+		"testspermillion": "16420"
+	},
+	{
+		"negative": "",
+		"state": "Uttar Pradesh",
+		"updatedon": "24/07/2020",
+		"positive": "60771",
+		"totaltested": "1705348",
+		"unconfirmed": "",
+		"testspermillion": "3373"
+	},
+	{
+		"negative": "119647",
+		"state": "Uttarakhand",
+		"updatedon": "24/07/2020",
+		"positive": "5717",
+		"totaltested": "135447",
+		"unconfirmed": "5163",
+		"testspermillion": "6286"
+	},
+	{
+		"negative": "",
+		"state": "West Bengal",
+		"updatedon": "24/07/2020",
+		"positive": "53973",
+		"totaltested": "773512",
+		"unconfirmed": "",
+		"testspermillion": "5135"
+	}
+		
 ]
